@@ -1,0 +1,38 @@
+.element-item img {
+    margin: 7px;
+    width: 64px;
+    float:left;
+} 
+
+.element-item h5 {
+    font-weight:bold;
+    color:darkred;
+}
+
+.row{
+    margin-top: 30px;
+    margin-right: 60px;
+    width: auto;
+}
+
+.borde{
+    border-style: solid double;
+    height: 60px;
+}
+
+.btn{
+    width: 100px;
+    margin: 10px;
+}
+
+.name{
+    font-size: medium;
+    font-weight: 1000;
+    margin: 10px;
+}
+
+.jumbotron{
+    background: url(img/src/super.jpg);
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
